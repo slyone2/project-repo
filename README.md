@@ -1,5 +1,5 @@
 ##README file or the Getting and Cleaning Data Course Project
- The R code has five sections that perform the following tasks:
+###The R code has five sections that perform the following tasks:
  1.	Merges the training and the test sets to create one data set.
 	The read.table commands are used to read the data files into R data frames
 	The rbind commands are used to merger the training and test data sets into three separate data sets
@@ -19,7 +19,7 @@
 	This section of the code uses multiple for loops and subsetting to assign the average of the varables for each activity and each subject
 	
 	
-The following is a listing of the run_analysis.R code:
+###The following is a listing of the run_analysis.R code:
 
  *** set working directory ***
 setwd("C:/data_science/getting_and_cleaning_data/project/UCI HAR Dataset")

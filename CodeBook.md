@@ -1,4 +1,4 @@
-#Code Book for the Getting and Cleaning Data Course Project
+## Code Book for the Getting and Cleaning Data Course Project
 
  This is the Code Book for the Getting and Cleaning Data Course Project. A full description of the data used can be optained from the following web site:
 	
@@ -75,7 +75,7 @@ The run_analysis.R script cleans and tidies the data by performing the following
 [64] "fbodybodyaccjerkmag-std"   "fbodybodygyromag-mean"     "fbodybodygyromag-std"     
 [67] "fbodybodygyrojerkmag-mean" "fbodybodygyrojerkmag-std" 
 
-The following is a listing of the run_analysis.R code:
+### The following is a listing of the run_analysis.R code:
 
  *** set working directory ***
 setwd("C:/data_science/getting_and_cleaning_data/project/UCI HAR Dataset")
